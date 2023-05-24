@@ -1,0 +1,14 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "botbase",
+  "log": "debug",
+  "outputfilename": "botbase",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "shawns",
+    "email": "shawnsdev19@gmail.com"
+  }
+}

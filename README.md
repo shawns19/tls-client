@@ -9,11 +9,11 @@ Key Features
 - Functional task page with stop, start, status updates and create tasks
 - Wails event emitting for inter-process communication
 
-To start application run `wails dev` in the myproject directory.
+To start application run `wails dev`.
 
 Run `npm i` in Frontend directory
 
-If there any issues with starting the application due to import errors from converting Go methods to Javascript, delete the directory myproject/Frontend/wailsjs.
+If there any issues with starting the application due to import errors from converting Go methods to Javascript, delete the directory Frontend/wailsjs.
 
 See Wails docs for more information on packaging the application and any other concerns.
 
